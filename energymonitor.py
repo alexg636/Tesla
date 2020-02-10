@@ -1,7 +1,6 @@
 import requests
 import getpass
 import json
-import getpass
 from time import sleep
 
 
